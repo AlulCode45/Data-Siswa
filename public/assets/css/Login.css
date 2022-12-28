@@ -1,0 +1,5 @@
+.bg-smk {
+    background: url("../img/bg.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
